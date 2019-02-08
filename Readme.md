@@ -1,7 +1,11 @@
 
 ## Project description
 
-The aim of this project is to generate random first names according to probability distribution of Polish names. For this purpose:
+**Project name:** Polish-like names generator <br>
+Autor: Tomasz Ostaszewicz <br>
+Implementation: Scrapy, Pandas, Pytorch.
+
+**Description:** The aim of this project is to generate random first names according to probability distribution of Polish names. For this purpose:
 1. List of Polish first names was obtained from Wikipedia site.
 2. Each name was assigned its category of origin and gender.
 3. Based on data from steps 1. and 2. LSTM recurrent neural network was trained. Trained model is character-level _language models_ e.g. in each time step each model generates probability of the next character.
