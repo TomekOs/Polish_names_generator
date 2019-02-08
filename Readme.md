@@ -1,5 +1,5 @@
 
-## Project description
+## Introduction
 
 **Project name:** Polish-like names generator <br>
 Autor: Tomasz Ostaszewicz <br>
